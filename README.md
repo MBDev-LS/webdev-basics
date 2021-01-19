@@ -5,3 +5,9 @@ But feel free to take a look around anyways.
 
 ### Now with:
 * Basic Tags
+* Tag Attributes
+* Some very basic webpage examples
+
+### Next I'll be working on...
+
+#### ...more CSS.
