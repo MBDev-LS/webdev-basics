@@ -1,26 +1,32 @@
 div {
-    width: 1000px;
-    height:1000x;
+    width: 200px;
+    height: 200px;
     border:1px solid red;
-    border-radius: 5px;
+    border-radius: 100%;
+    background-image: url("../../html-essentials/0012_hands-on/05/img/wave.png");
+    background-size: cover;
 }
 
 img {
     border:10px groove black;
     width: 50%;
+    border-radius: 100%;
 }
 
 .waveone {
     border:10px dashed red;
     width: 50%;
+    border-radius: 100%;
 }
 
 .wavetwo {
     border:10px dotted black;
     width: 50%;
+    border-radius: 100%;
 }
 
 .wavethree {
     border:10px double red;
     width: 50%;
+    border-radius: 100%;
 }
