@@ -7,6 +7,7 @@ But feel free to take a look around anyways.
 * Basic Tags
 * Tag Attributes
 * Some very basic webpage examples
+* Borders & Border Radii (In CSS of course)
 
 ### Next I'll be working on...
 
