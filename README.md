@@ -8,6 +8,7 @@ But feel free to take a look around anyways.
 * Tag Attributes
 * Some very basic webpage examples
 * Borders & Border Radii (In CSS of course)
+* The CSS display property
 
 ### Next I'll be working on...
 
